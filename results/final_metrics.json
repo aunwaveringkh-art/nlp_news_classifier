@@ -1,0 +1,14 @@
+{
+  "svm_test_acc": 0.8649300083433763,
+  "ensemble_test_acc": 0.8547325484379346,
+  "svm_specialist_test_acc": 0.8659497543339204,
+  "best_variant": "svm+specialist",
+  "final_test_accuracy": 0.8659497543339204,
+  "final_test_macro_f1": 0.8689395359862213,
+  "ensemble_weights": [
+    0.2846682935937309,
+    0.32713760466091746,
+    0.1562611380354264,
+    0.23193296370992536
+  ]
+}
